@@ -7,15 +7,23 @@ https://www.youtube.com/watch?v=rV3HJ4LEZ7k&t=3273s
 
 <br/>
 
+### Timestamp
+
 ```
-Timestamp
-
 00:00:00 Introduction
+```
 
+<br/>
+
+```
 00:02:31 Langchain Course
 
 https://github.com/krishnaik06/Langchain-V1-Crash-Course 
+```
 
+<br/>
+
+```
 02:35:12 Langraph Course
 
 https://github.com/krishnaik06/Agentic-LanggraphCrash-course 
