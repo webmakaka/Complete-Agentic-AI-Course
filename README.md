@@ -20,6 +20,16 @@ https://github.com/krishnaik06/Langchain-V1-Crash-Course
 
 <br/>
 
+```shell
+$ uv init
+$ uv venv
+$ .venv/Scripts/activate
+$ uv add -r requirements.txt
+$ uv add ipykernel
+```
+
+<br/>
+
 ### Langraph Course: 02:35:12 - 05:02:29
 
 ```
@@ -33,6 +43,7 @@ $ uv init
 $ uv venv
 $ .venv/Scripts/activate
 $ uv add -r requirements.txt
+$ uv add ipykernel
 ```
 
 <br/>
