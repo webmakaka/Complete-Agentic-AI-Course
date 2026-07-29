@@ -2,9 +2,6 @@
 
 https://www.youtube.com/watch?v=rV3HJ4LEZ7k&t=3273s
 
-
-**Github Links:**
-
 <br/>
 
 ### Timestamp
@@ -27,6 +24,15 @@ https://github.com/krishnaik06/Langchain-V1-Crash-Course
 Langraph Course: 02:35:12 - 05:02:29
 
 https://github.com/krishnaik06/Agentic-LanggraphCrash-course 
+```
+
+<br/>
+
+```shell
+$ uv init
+$ uv venv
+$ .venv/Scripts/activate
+$ uv add -r requirements.txt
 ```
 
 <br/>
