@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=rV3HJ4LEZ7k&t=3273s
 <br/>
 
 ```
-00:02:31 Langchain Course
+Langchain Course: 00:02:31 - 02:35:12 
 
 https://github.com/krishnaik06/Langchain-V1-Crash-Course 
 ```
@@ -24,10 +24,14 @@ https://github.com/krishnaik06/Langchain-V1-Crash-Course
 <br/>
 
 ```
-02:35:12 Langraph Course
+Langraph Course: 02:35:12 - 05:02:29
 
 https://github.com/krishnaik06/Agentic-LanggraphCrash-course 
+```
 
+<br/>
+
+```
 05:02:29 RAG Course
 07:10:43 Vectorless RAG
 08:02:11 Deep Agents
@@ -36,6 +40,8 @@ https://github.com/krishnaik06/Agentic-LanggraphCrash-course
 10:30:25 LLM Gateways
 ```
 
+
+<br/>
 
 RAG: https://github.com/krishnaik06/RAG-Tu...  
 Vectorless RAG: https://github.com/krishnaik06/RAG-Tu...  
