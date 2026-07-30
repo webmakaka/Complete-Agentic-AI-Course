@@ -79,12 +79,14 @@ Tool definition & Docstrings: (1:00:50)
 System, Human, & AI Messages: (1:16:35)
 Structured Output (Pydantic & TypedDict): (1:23:08)
 Middleware concepts: (2:02:05)
+
 LangGraph Course (2:35:12):
 
 Defining Nodes & Edges: (2:52:38)
 Tool Node integration: (3:31:02)
 Memory & State management: (4:02:53)
 Human-in-the-loop workflows: (4:22:20)
+
 RAG Course (5:02:29):
 
 Document Parsing & Structure: (5:25:35)
