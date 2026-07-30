@@ -49,7 +49,7 @@ $ uv add ipykernel
 Defining Nodes & Edges: (2:52:38)
 Tool Node integration: (3:31:02)
 Memory & State management: (4:02:53)
-Human-in-the-loop workflows: (4:22:20)
+Human-in-the-loop workflows: (4:20:20)
 ```
 
 <br/>
