@@ -78,6 +78,12 @@ https://www.tavily.com/
 
 ### RAG Course: 05:02:29 - 07:10:43
 
+```
+Document Parsing & Structure: (5:25:35)
+Chunking strategies: (6:26:40)
+Vector DB Retrieval: (6:28:46)
+Advanced RAG Pipeline (Citations & Scoring): (6:42:41)
+```
 
 <br/>
 
@@ -95,14 +101,6 @@ https://www.tavily.com/
 <br/>
 
 ```
-RAG Course (5:02:29):
-
-Document Parsing & Structure: (5:25:35)
-Chunking strategies: (6:26:40)
-Vector DB Retrieval: (6:28:46)
-Advanced RAG Pipeline (Citations & Scoring): (6:42:41)
-Vectorless RAG (7:10:43):
-
 Hierarchical Indexing: (7:24:09)
 Comparison: Vectorless vs. Traditional RAG: (7:46:06)
 Deep Agents (8:02:11):
