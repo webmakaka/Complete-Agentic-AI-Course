@@ -60,9 +60,6 @@ Building MCP Server: (4:28:00)
 https://github.com/krishnaik06/Agentic-LanggraphCrash-course 
 ```
 
-```
-https://github.com/krishnaik06/MCPSERVERLangchain
-```
 
 <br/>
 
@@ -77,6 +74,14 @@ $ uv add ipykernel
 https://console.groq.com/
 
 https://www.tavily.com/
+
+<br/>
+
+**Building MCP Server**
+
+```
+https://github.com/krishnaik06/MCPSERVERLangchain
+```
 
 
 <br/>
