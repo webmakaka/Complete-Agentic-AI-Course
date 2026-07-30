@@ -60,7 +60,6 @@ Building MCP Server: (4:28:00)
 https://github.com/krishnaik06/Agentic-LanggraphCrash-course 
 ```
 
-
 <br/>
 
 ```shell
@@ -81,6 +80,18 @@ https://www.tavily.com/
 
 ```
 https://github.com/krishnaik06/MCPSERVERLangchain
+```
+
+<br/>
+
+```shell
+// streamable-http
+$ python weather.py
+
+// stdio
+$ python mathserver.py
+
+$ python client.py
 ```
 
 
