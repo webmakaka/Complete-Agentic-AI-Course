@@ -108,6 +108,12 @@ Advanced RAG Pipeline (Citations & Scoring): (6:42:41)
 
 <br/>
 
+```
+https://github.com/krishnaik06/RAG-Tutorials
+```
+
+<br/>
+
 ### Vectorless RAG: 07:10:43 - 08:02:11
 
 ```
