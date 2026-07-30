@@ -48,9 +48,16 @@ $ uv add ipykernel
 
 <br/>
 
+### RAG Course: 02:35:12 - 07:10:43
+
+
+<br/>
+
+### Vectorless RAG: 07:10:43 - 08:02:11
+
+<br/>
+
 ```
-05:02:29 RAG Course
-07:10:43 Vectorless RAG
 08:02:11 Deep Agents
 08:45:43 Guardrails
 09:22:55 LLM Evaluation
