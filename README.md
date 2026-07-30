@@ -60,6 +60,10 @@ Building MCP Server: (4:28:00)
 https://github.com/krishnaik06/Agentic-LanggraphCrash-course 
 ```
 
+```
+https://github.com/krishnaik06/MCPSERVERLangchain
+```
+
 <br/>
 
 ```shell
