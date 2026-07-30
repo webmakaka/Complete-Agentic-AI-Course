@@ -66,3 +66,45 @@ Deep Agents: https://drive.google.com/file/d/1SVjv...
 Guardrails : https://github.com/krishnaik06/Langch...  
 LLM Evals : https://github.com/krishnaik06/RAG-Tu...  
 LLM Gateways: https://github.com/krishnaik06/Langch...  
+
+
+<br/>
+
+
+Introduction (0:00:00): Overview of course objectives and the agentic AI landscape.
+
+LangChain Course (0:02:31):
+
+Tool definition & Docstrings: (1:00:50)
+System, Human, & AI Messages: (1:16:35)
+Structured Output (Pydantic & TypedDict): (1:23:08)
+Middleware concepts: (2:02:05)
+LangGraph Course (2:35:12):
+
+Defining Nodes & Edges: (2:52:38)
+Tool Node integration: (3:31:02)
+Memory & State management: (4:02:53)
+Human-in-the-loop workflows: (4:22:20)
+RAG Course (5:02:29):
+
+Document Parsing & Structure: (5:25:35)
+Chunking strategies: (6:26:40)
+Vector DB Retrieval: (6:28:46)
+Advanced RAG Pipeline (Citations & Scoring): (6:42:41)
+Vectorless RAG (7:10:43):
+
+Hierarchical Indexing: (7:24:09)
+Comparison: Vectorless vs. Traditional RAG: (7:46:06)
+Deep Agents (8:02:11):
+
+Planning & Task Decomposition: (8:23:41)
+Multi-Agent Workflow execution: (8:40:43)
+Guardrails (8:45:43):
+
+PII Detection & Redaction: (9:10:16)
+LLM Evaluation (9:22:55):
+
+Evaluating Groundedness & Relevance: (10:23:30)
+LLM Gateways (10:30:25):
+
+Routing & Model Fallbacks: (11:06:49)
