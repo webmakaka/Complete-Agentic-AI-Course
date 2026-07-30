@@ -46,6 +46,9 @@ $ uv add -r requirements.txt
 $ uv add ipykernel
 ```
 
+https://console.groq.com/
+
+
 <br/>
 
 ### RAG Course: 02:35:12 - 07:10:43
