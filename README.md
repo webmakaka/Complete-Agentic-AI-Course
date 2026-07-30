@@ -76,7 +76,7 @@ https://www.tavily.com/
 
 <br/>
 
-### RAG Course: 02:35:12 - 07:10:43
+### RAG Course: 05:02:29 - 07:10:43
 
 
 <br/>
