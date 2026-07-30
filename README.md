@@ -70,7 +70,7 @@ LLM Gateways: https://github.com/krishnaik06/Langch...
 
 <br/>
 
-
+```
 Introduction (0:00:00): Overview of course objectives and the agentic AI landscape.
 
 LangChain Course (0:02:31):
@@ -108,3 +108,4 @@ Evaluating Groundedness & Relevance: (10:23:30)
 LLM Gateways (10:30:25):
 
 Routing & Model Fallbacks: (11:06:49)
+```
