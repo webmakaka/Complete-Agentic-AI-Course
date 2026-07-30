@@ -89,31 +89,44 @@ Advanced RAG Pipeline (Citations & Scoring): (6:42:41)
 
 ### Vectorless RAG: 07:10:43 - 08:02:11
 
-<br/>
-
-```
-08:02:11 Deep Agents
-08:45:43 Guardrails
-09:22:55 LLM Evaluation
-10:30:25 LLM Gateways
-```
-
-<br/>
-
 ```
 Hierarchical Indexing: (7:24:09)
 Comparison: Vectorless vs. Traditional RAG: (7:46:06)
-Deep Agents (8:02:11):
+```
 
+<br/>
+
+### Deep Agents: 08:02:11 - 08:45:43
+
+```
 Planning & Task Decomposition: (8:23:41)
 Multi-Agent Workflow execution: (8:40:43)
-Guardrails (8:45:43):
+```
 
+<br/>
+
+### Guardrails: 08:45:43 - 09:22:55
+
+
+```
 PII Detection & Redaction: (9:10:16)
-LLM Evaluation (9:22:55):
+```
 
+<br/>
+
+### LLM Evaluation: 09:22:55 - 10:30:25
+
+```
 Evaluating Groundedness & Relevance: (10:23:30)
-LLM Gateways (10:30:25):
+```
 
+
+<br/>
+
+### LLM Gateways: 10:30:25 - 
+
+```
 Routing & Model Fallbacks: (11:06:49)
 ```
+
+
