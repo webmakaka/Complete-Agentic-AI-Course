@@ -101,7 +101,7 @@ $ python client.py
 
 ```
 Document Parsing & Structure: (5:25:35)
-Chunking strategies: (6:26:40)
+Chunking strategies: (6:??:??)
 Vector DB Retrieval: (6:28:46)
 Advanced RAG Pipeline (Citations & Scoring): (6:42:41)
 ```
@@ -150,7 +150,7 @@ Evaluating Groundedness & Relevance: (10:23:30)
 
 <br/>
 
-### LLM Gateways: 10:30:25 - 
+### LLM Gateways: 10:30:25 - 11:13:25
 
 ```
 Routing & Model Fallbacks: (11:06:49)
