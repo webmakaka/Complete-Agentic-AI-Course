@@ -129,6 +129,8 @@ Comparison: Vectorless vs. Traditional RAG: (7:46:06)
 
 ### Deep Agents: 08:02:11 - 08:45:43
 
+https://colab.research.google.com/drive/1SVjvgqvKfF-FPAIqpEZdKMQLhe13NLFD
+
 ```
 Planning & Task Decomposition: (8:23:41)
 Multi-Agent Workflow execution: (8:40:43)
@@ -138,6 +140,7 @@ Multi-Agent Workflow execution: (8:40:43)
 
 ### Guardrails: 08:45:43 - 09:22:55
 
+https://github.com/krishnaik06/Langchain-V1-Crash-Course/blob/main/updatedlangchain/langchain_guardrails_crash_course.ipynb
 
 ```
 PII Detection & Redaction: (9:10:16)
@@ -147,6 +150,8 @@ PII Detection & Redaction: (9:10:16)
 
 ### LLM Evaluation: 09:22:55 - 10:30:25
 
+https://github.com/krishnaik06/RAG-Tutorials/blob/main/1-rag_evaluation.ipynb
+
 ```
 Evaluating Groundedness & Relevance: (10:23:30)
 ```
@@ -155,6 +160,8 @@ Evaluating Groundedness & Relevance: (10:23:30)
 <br/>
 
 ### LLM Gateways: 10:30:25 - 11:13:25
+
+https://github.com/krishnaik06/Langchain-V1-Crash-Course/blob/main/llm_gateway_tutorial.ipynb
 
 ```
 Routing & Model Fallbacks: (11:06:49)
