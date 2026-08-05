@@ -144,7 +144,7 @@ Multi-Agent Workflow execution: (8:40:43)
 
 <br/>
 
-### Guardrails: 08:45:43 - 09:22:55
+### Guardrails: 08:45:43 - 09:23:48
 
 ```
 https://github.com/krishnaik06/Langchain-V1-Crash-Course/blob/main/updatedlangchain/langchain_guardrails_crash_course.ipynb
@@ -156,7 +156,7 @@ PII Detection & Redaction: (9:10:16)
 
 <br/>
 
-### LLM Evaluation: 09:22:55 - 10:30:25
+### LLM Evaluation: 09:23:48 - 10:30:25
 
 ```
 https://github.com/krishnaik06/RAG-Tutorials/blob/main/1-rag_evaluation.ipynb
