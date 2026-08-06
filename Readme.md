@@ -171,7 +171,7 @@ Evaluating Groundedness & Relevance: (10:23:30)
 
 <br/>
 
-### LLM Gateways: 10:30:25 - 11:13:25
+### LLM Gateways: 10:30:00 - 11:13:25
 
 ```
 https://github.com/krishnaik06/Langchain-V1-Crash-Course/blob/main/llm_gateway_tutorial.ipynb
