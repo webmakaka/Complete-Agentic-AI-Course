@@ -183,3 +183,12 @@ Routing & Model Fallbacks: (11:06:49)
 
 https://www.litellm.ai/
 
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+<a href="https://agenticdev.ru/">Предложить инженеру работу / подработку на проекте с kubernetes, microservices, golang, machine learning, big data, LLM, agents</a>
