@@ -164,6 +164,7 @@ https://github.com/krishnaik06/RAG-Tutorials/blob/main/1-rag_evaluation.ipynb
 
 ```
 LLM as a Judge: (09:42:20)
+RAG Evaluation: (09:58:00)
 Evaluating Groundedness & Relevance: (10:23:30)
 ```
 
